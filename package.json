@@ -1,0 +1,23 @@
+{
+  "name": "hbooker-spider",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www --harmony"
+  },
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "axios": "^0.18.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "cookie-parser": "~1.4.3",
+    "crypto-js": "^3.1.9-1",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "hbs": "~4.0.1",
+    "http-errors": "~1.6.2",
+    "moment": "^2.24.0",
+    "morgan": "~1.9.0",
+    "stylus": "0.54.5"
+  }
+}
